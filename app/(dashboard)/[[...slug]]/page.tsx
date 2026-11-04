@@ -1,0 +1,7 @@
+"use client";
+
+import { Workspace } from "@/features/workspace";
+
+export default function WorkspacePage() {
+  return <Workspace />;
+}
